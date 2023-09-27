@@ -1,0 +1,6 @@
+1110001;Calculo I
+1110002;Calculo II
+1110003;Algoritmos e Estruturas de Dados I
+1110004;Algoritmos e Estruturas de Dados II
+1110005;Progração Orientada a Objetos
+1110006;Banco de Dados
