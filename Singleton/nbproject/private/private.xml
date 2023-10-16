@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/lucio/Documents/NetBeansProjects/Singleton/src/subsistema2/cep/CepApi.java</file>
+            <file>file:/C:/Users/lucio/Documents/NetBeansProjects/Singleton/src/singleton/Singleton.java</file>
+            <file>file:/C:/Users/lucio/Documents/NetBeansProjects/Singleton/src/strategy/Test.java</file>
+            <file>file:/C:/Users/lucio/Documents/NetBeansProjects/Singleton/src/strategy/Comportamento.java</file>
+            <file>file:/C:/Users/lucio/Documents/NetBeansProjects/Singleton/src/singleton/SingletonLazyHolder.java</file>
+            <file>file:/C:/Users/lucio/Documents/NetBeansProjects/Singleton/src/strategy/Robo.java</file>
+            <file>file:/C:/Users/lucio/Documents/NetBeansProjects/Singleton/src/singleton/SingletonEager.java</file>
+            <file>file:/C:/Users/lucio/Documents/NetBeansProjects/Singleton/src/Facade/Facade.java</file>
+            <file>file:/C:/Users/lucio/Documents/NetBeansProjects/Singleton/src/strategy/ComportamentoDefensivo.java</file>
+            <file>file:/C:/Users/lucio/Documents/NetBeansProjects/Singleton/src/strategy/ComportamentoAgressivo.java</file>
+            <file>file:/C:/Users/lucio/Documents/NetBeansProjects/Singleton/src/strategy/ComportamentoNormal.java</file>
+            <file>file:/C:/Users/lucio/Documents/NetBeansProjects/Singleton/src/subsistema/crm/CrmService.java</file>
+            <file>file:/C:/Users/lucio/Documents/NetBeansProjects/Singleton/src/singleton/SingletonLazy.java</file>
+        </group>
+    </open-files>
+</project-private>
